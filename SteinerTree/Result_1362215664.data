@@ -1,0 +1,127 @@
+ 
+------------------------Topology Nodes (400)------------------------ 
+------------------------Server Node (2)------------------------ 
+ sour_no(42)   
+ sour_no(14)   
+------------------------Users (6)------------------------ 
+  dest_no(237)   
+  dest_no(114)   
+  dest_no(146)   
+  dest_no(168)   
+  dest_no(240)   
+  dest_no(336)   
+ -----------------Case1 Permutation and Combination(M:N) Start------------------------- 
+  
+ ----------------- Detail ------------------------- 
+       The Case: 1  Total Cast : 3727.4304830000001  Minimum Delay: 1.5092068710000 
+       The Case: 2  Total Cast : 4378.1854029999995  Minimum Delay: 1.2301014330000 
+       The Case: 3  Total Cast : 4547.5795459999999  Minimum Delay: 1.1922716900000 
+       The Case: 4  Total Cast : 3933.8770299999996  Minimum Delay: 0.7582572830000 
+       The Case: 5  Total Cast : 3977.9966070000000  Minimum Delay: 1.5092068710000 
+       The Case: 6  Total Cast : 4459.2972979999995  Minimum Delay: 1.2301014330000 
+       The Case: 7  Total Cast : 4722.6011550000003  Minimum Delay: 1.4412791039000 
+       The Case: 8  Total Cast : 3938.9626149999995  Minimum Delay: 0.9817799359000 
+       The Case: 9  Total Cast : 3828.7058729999999  Minimum Delay: 1.5272702570000 
+       The Case: 10  Total Cast : 4300.5613829999993  Minimum Delay: 1.2481648190000 
+       The Case: 11  Total Cast : 4500.0067260000005  Minimum Delay: 1.1922716900000 
+       The Case: 12  Total Cast : 3856.2530099999999  Minimum Delay: 0.7763206690000 
+       The Case: 13  Total Cast : 3900.3725870000003  Minimum Delay: 1.5272702570000 
+       The Case: 14  Total Cast : 4381.6732780000002  Minimum Delay: 1.2481648190000 
+       The Case: 15  Total Cast : 4634.7842510000000  Minimum Delay: 1.5529161499000 
+       The Case: 16  Total Cast : 3861.3385950000002  Minimum Delay: 0.9817799359000 
+       The Case: 17  Total Cast : 3883.1533159999999  Minimum Delay: 1.2008976520000 
+       The Case: 18  Total Cast : 4600.6879389999995  Minimum Delay: 1.2008976520000 
+       The Case: 19  Total Cast : 4403.4879989999999  Minimum Delay: 1.1922716900000 
+       The Case: 20  Total Cast : 3836.8816129999996  Minimum Delay: 1.0640209830000 
+       The Case: 21  Total Cast : 4133.7194400000008  Minimum Delay: 1.2008976520000 
+       The Case: 22  Total Cast : 4605.7735240000002  Minimum Delay: 1.2008976520000 
+       The Case: 23  Total Cast : 4538.2655240000004  Minimum Delay: 1.5417756389000 
+       The Case: 24  Total Cast : 3841.9671980000003  Minimum Delay: 1.5417756389000 
+       The Case: 25  Total Cast : 3834.7954660000000  Minimum Delay: 1.2008976520000 
+       The Case: 26  Total Cast : 4552.3300890000000  Minimum Delay: 1.2008976520000 
+       The Case: 27  Total Cast : 4355.1301490000005  Minimum Delay: 1.1922716900000 
+       The Case: 28  Total Cast : 3908.0090440000004  Minimum Delay: 1.0640209830000 
+       The Case: 29  Total Cast : 4085.3615900000004  Minimum Delay: 1.2008976520000 
+       The Case: 30  Total Cast : 4557.4156739999999  Minimum Delay: 1.2008976520000 
+       The Case: 31  Total Cast : 4489.9076740000000  Minimum Delay: 1.5417756389000 
+       The Case: 32  Total Cast : 3913.0946290000002  Minimum Delay: 1.5417756389000 
+       The Case: 33  Total Cast : 3599.6653329999999  Minimum Delay: 1.5092068710000 
+       The Case: 34  Total Cast : 4250.4202530000002  Minimum Delay: 1.2301014330000 
+       The Case: 35  Total Cast : 4419.8143959999998  Minimum Delay: 1.1922716900000 
+       The Case: 36  Total Cast : 3806.1118800000004  Minimum Delay: 0.5126512420000 
+       The Case: 37  Total Cast : 3850.2314570000003  Minimum Delay: 1.5092068710000 
+       The Case: 38  Total Cast : 4331.5321480000002  Minimum Delay: 1.2301014330000 
+       The Case: 39  Total Cast : 4594.8360050000001  Minimum Delay: 1.4412791039000 
+       The Case: 40  Total Cast : 3811.1974650000002  Minimum Delay: 0.9817799359000 
+       The Case: 41  Total Cast : 3567.3436730000003  Minimum Delay: 1.5272702570000 
+       The Case: 42  Total Cast : 4218.0985929999997  Minimum Delay: 1.2481648190000 
+       The Case: 43  Total Cast : 4238.6445260000000  Minimum Delay: 1.1922716900000 
+       The Case: 44  Total Cast : 3773.7902199999999  Minimum Delay: 0.5126512420000 
+       The Case: 45  Total Cast : 3817.9097969999998  Minimum Delay: 1.5272702570000 
+       The Case: 46  Total Cast : 4299.2104879999997  Minimum Delay: 1.2481648190000 
+       The Case: 47  Total Cast : 4373.4220510000005  Minimum Delay: 1.6356178177000 
+       The Case: 48  Total Cast : 3778.8758049999997  Minimum Delay: 0.9817799359000 
+       The Case: 49  Total Cast : 3536.1587460000001  Minimum Delay: 1.2008976520000 
+       The Case: 50  Total Cast : 4253.6933690000005  Minimum Delay: 1.2008976520000 
+       The Case: 51  Total Cast : 4056.4934290000001  Minimum Delay: 1.1922716900000 
+       The Case: 52  Total Cast : 3489.8870429999997  Minimum Delay: 1.4524726138000 
+       The Case: 53  Total Cast : 3786.7248700000000  Minimum Delay: 1.2008976520000 
+       The Case: 54  Total Cast : 4258.7789540000003  Minimum Delay: 1.4777647557000 
+       The Case: 55  Total Cast : 4191.2709539999996  Minimum Delay: 1.9302272697000 
+       The Case: 56  Total Cast : 3494.9726280000004  Minimum Delay: 1.9302272697000 
+       The Case: 57  Total Cast : 3576.1856760000001  Minimum Delay: 1.2008976520000 
+       The Case: 58  Total Cast : 4293.7202990000005  Minimum Delay: 1.2008976520000 
+       The Case: 59  Total Cast : 4096.5203590000001  Minimum Delay: 1.1922716900000 
+       The Case: 60  Total Cast : 3529.9139730000002  Minimum Delay: 1.4524726138000 
+       The Case: 61  Total Cast : 3826.7518000000005  Minimum Delay: 1.2008976520000 
+       The Case: 62  Total Cast : 4298.8058840000003  Minimum Delay: 1.4777647557000 
+       The Case: 63  Total Cast : 4231.2978839999996  Minimum Delay: 1.9302272697000 
+       The Case: 64  Total Cast : 3534.9995580000000  Minimum Delay: 1.9302272697000 
+ 
+ ----------------- Min Cost ------------------------- 
+        The Case: 52  Min Cost : 3489.8870429999997   Delay : 1.4524726138000 
+ 
+ ----------------- Min Delay ------------------------- 
+        The Case: 36   Min Delay : 0.5126512420000  Cost : 3806.1118800000004  
+ 
+ ----------------- Max Cost ------------------------- 
+        The Case: 7   Max Cost: 4722.6011550000003  Delay : 1.4412791039000  
+ 
+ ----------------- Max Delay ------------------------- 
+        The Case: 55   Max Delay: 1.9302272697000   Cost : 4191.2709539999996  
+ 
+ -----------------Case1 Permutation and Combination(M:N) End------------------------- 
+  
+     The used time of Case1 Permutation and Combination(M:N)   is 11.827000 seconds 
+ -------------------------------------------------------------------------------------- 
+ 
+ -----------------Case2 (M:N) Start  -----------------
+        Total Cast : 3536.1587460000001   Max Delay: 1.2008976520000 
+ 
+ -----------------Case2 (M:N) End  -----------------
+  
+     The used time of Case2 (M:N)   is 0.223000 seconds 
+ -------------------------------------------------------------------------------------- 
+ 
+ -----------------Case3 (1:M) Start------------------------- 
+  
+ ----------------- Detail ------------------------- 
+       The Case: 1  Total Cast : 3727.4304830000001  Delay: 1.5092068710000 
+       The Case: 2  Total Cast : 3534.9995580000000  Delay: 1.9302272697000 
+ 
+ ----------------- Min Cost ------------------------- 
+        The Case: 2  Min Cost : 3534.9995580000000   Delay : 1.9302272697000 
+ 
+ ----------------- Min Delay ------------------------- 
+        The Case: 1   Min Delay : 1.5092068710000  Cost : 3727.4304830000001  
+ 
+ ----------------- Max Cost ------------------------- 
+        The Case: 1   Max Cost: 3727.4304830000001   Delay : 1.5092068710000  
+ 
+ ----------------- Max Delay ------------------------- 
+        The Case: 2   Max Delay: 1.9302272697000   Cost : 3534.9995580000000  
+ 
+ -----------------Case3 (1:M) End------------------------- 
+  
+     The used time of Case3 (1:M)  is 0.231000 seconds 
+ -------------------------------------------------------------------------------------- 

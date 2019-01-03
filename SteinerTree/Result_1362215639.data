@@ -1,0 +1,94 @@
+ 
+------------------------Topology Nodes (400)------------------------ 
+------------------------Server Node (2)------------------------ 
+ sour_no(41)   
+ sour_no(334)   
+------------------------Users (5)------------------------ 
+  dest_no(385)   
+  dest_no(370)   
+  dest_no(198)   
+  dest_no(169)   
+  dest_no(90)   
+ -----------------Case1 Permutation and Combination(M:N) Start------------------------- 
+  
+ ----------------- Detail ------------------------- 
+       The Case: 1  Total Cast : 2285.3256289999999  Minimum Delay: 1.7320086800000 
+       The Case: 2  Total Cast : 2925.7741779999997  Minimum Delay: 1.7320086800000 
+       The Case: 3  Total Cast : 3378.9398209999999  Minimum Delay: 1.4565711060000 
+       The Case: 4  Total Cast : 3183.1261139999997  Minimum Delay: 1.7320086800000 
+       The Case: 5  Total Cast : 3178.8900600000002  Minimum Delay: 1.0849786600000 
+       The Case: 6  Total Cast : 3373.4061540000002  Minimum Delay: 1.0849786600000 
+       The Case: 7  Total Cast : 3304.3982650000003  Minimum Delay: 0.8807659000000 
+       The Case: 8  Total Cast : 3189.9999900000003  Minimum Delay: 1.0698378190000 
+       The Case: 9  Total Cast : 2600.4749689999999  Minimum Delay: 1.7320086800000 
+       The Case: 10  Total Cast : 3157.7438239999997  Minimum Delay: 1.7320086800000 
+       The Case: 11  Total Cast : 3227.1460090000000  Minimum Delay: 1.4565711060000 
+       The Case: 12  Total Cast : 3411.7248719999998  Minimum Delay: 1.7320086800000 
+       The Case: 13  Total Cast : 2849.2411269999998  Minimum Delay: 0.8807659000000 
+       The Case: 14  Total Cast : 3144.8073959999997  Minimum Delay: 0.9424865450000 
+       The Case: 15  Total Cast : 2964.8285249999999  Minimum Delay: 0.8807659000000 
+       The Case: 16  Total Cast : 2956.8865699999997  Minimum Delay: 1.1149840190000 
+       The Case: 17  Total Cast : 2600.6159389999998  Minimum Delay: 1.0849786600000 
+       The Case: 18  Total Cast : 3102.5770089999996  Minimum Delay: 1.0849786600000 
+       The Case: 19  Total Cast : 3497.0620070000000  Minimum Delay: 1.4512386080000 
+       The Case: 20  Total Cast : 3301.2483000000002  Minimum Delay: 1.3949564990000 
+       The Case: 21  Total Cast : 3086.2328140000000  Minimum Delay: 1.0849786600000 
+       The Case: 22  Total Cast : 3280.7489080000000  Minimum Delay: 1.5895165650000 
+       The Case: 23  Total Cast : 3211.7410190000001  Minimum Delay: 0.8926151467000 
+       The Case: 24  Total Cast : 3177.7541899999997  Minimum Delay: 1.7620140390000 
+       The Case: 25  Total Cast : 2603.5562590000000  Minimum Delay: 1.0398324600000 
+       The Case: 26  Total Cast : 3334.5466550000001  Minimum Delay: 1.0398324600000 
+       The Case: 27  Total Cast : 3282.2999490000002  Minimum Delay: 1.4501450250000 
+       The Case: 28  Total Cast : 3466.8788120000004  Minimum Delay: 1.3949564990000 
+       The Case: 29  Total Cast : 2756.5838809999996  Minimum Delay: 1.5507651050000 
+       The Case: 30  Total Cast : 3052.1501499999995  Minimum Delay: 1.5895165650000 
+       The Case: 31  Total Cast : 2872.1712789999997  Minimum Delay: 1.5507651050000 
+       The Case: 32  Total Cast : 2864.2293239999999  Minimum Delay: 1.7620140390000 
+ 
+ ----------------- Min Cost ------------------------- 
+        The Case: 1  Min Cost : 2285.3256289999999   Delay : 1.7320086800000 
+ 
+ ----------------- Min Delay ------------------------- 
+        The Case: 7   Min Delay : 0.8807659000000  Cost : 3304.3982650000003  
+ 
+ ----------------- Max Cost ------------------------- 
+        The Case: 19   Max Cost: 3497.0620070000000  Delay : 1.4512386080000  
+ 
+ ----------------- Max Delay ------------------------- 
+        The Case: 24   Max Delay: 1.7620140390000   Cost : 3177.7541899999997  
+ 
+ -----------------Case1 Permutation and Combination(M:N) End------------------------- 
+  
+     The used time of Case1 Permutation and Combination(M:N)   is 5.681000 seconds 
+ -------------------------------------------------------------------------------------- 
+ 
+ -----------------Case2 (M:N) Start  -----------------
+        Total Cast : 2285.3256289999999   Max Delay: 1.7320086800000 
+ 
+ -----------------Case2 (M:N) End  -----------------
+  
+     The used time of Case2 (M:N)   is 0.142000 seconds 
+ -------------------------------------------------------------------------------------- 
+ 
+ -----------------Case3 (1:M) Start------------------------- 
+  
+ ----------------- Detail ------------------------- 
+       The Case: 1  Total Cast : 2285.3256289999999  Delay: 1.7320086800000 
+       The Case: 2  Total Cast : 2864.2293239999999  Delay: 1.7620140390000 
+ 
+ ----------------- Min Cost ------------------------- 
+        The Case: 1  Min Cost : 2285.3256289999999   Delay : 1.7320086800000 
+ 
+ ----------------- Min Delay ------------------------- 
+        The Case: 1   Min Delay : 1.7320086800000  Cost : 2285.3256289999999  
+ 
+ ----------------- Max Cost ------------------------- 
+        The Case: 2   Max Cost: 2864.2293239999999   Delay : 1.7620140390000  
+ 
+ ----------------- Max Delay ------------------------- 
+        The Case: 2   Max Delay: 1.7620140390000   Cost : 2864.2293239999999  
+ 
+ -----------------Case3 (1:M) End------------------------- 
+  
+     The used time of Case3 (1:M)  is 0.222000 seconds 
+ -------------------------------------------------------------------------------------- 
